@@ -4,12 +4,16 @@
 
 ## 파일 구조
 - bash
-- 코드 복사
 /project-directory
+
 │
+
 ├── index.html
+
 ├── styles.css
+
 └── app.js
+
 
 
 ## 파일 설명
